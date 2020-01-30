@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronBuilder", "PatronBuil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaFactory2", "PracticaFactory2\PracticaFactory2.csproj", "{31CE19E6-5482-409B-B78B-ACE6284D2D1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaAbstractFactory2", "PracticaAbstractFactory2\PracticaAbstractFactory2.csproj", "{DF2A1269-A0D0-4789-9D10-772658517BD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{31CE19E6-5482-409B-B78B-ACE6284D2D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31CE19E6-5482-409B-B78B-ACE6284D2D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31CE19E6-5482-409B-B78B-ACE6284D2D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF2A1269-A0D0-4789-9D10-772658517BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF2A1269-A0D0-4789-9D10-772658517BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF2A1269-A0D0-4789-9D10-772658517BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF2A1269-A0D0-4789-9D10-772658517BD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
